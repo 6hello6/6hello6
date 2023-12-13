@@ -1,16 +1,16 @@
-### Hi there 👋
+###你好
 
 <!--
-**6hello6/6hello6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***6hello 6/6hello 6***是一个 library_special_biodepository，你是我的你
 
-Here are some ideas to get you started:
+以下是一些让你开始的想法：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-我现在正在做Python,Java,C++,R,scratch,JavaScript
+-我现在正在学习……Python,Java,C++,R,scratch,JavaScript
+-我希望你能合作Python
+-我在寻求帮助……Python,Java,C++,R,scratch,JavaScript
+-问我关于……Python,Java,C++,R,scratch,JavaScript
+-如何找到我。
+-代词：你西方
+有趣的事实：……
 -->
